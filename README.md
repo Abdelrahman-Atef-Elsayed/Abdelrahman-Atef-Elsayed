@@ -18,7 +18,7 @@
 
 - ⚡⚡⚡ "I can do it and I can achieve to my all dreams"  ⚡⚡⚡
 
-<h3 align="center">Languages</h3>
+<h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
