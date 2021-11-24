@@ -25,7 +25,7 @@
       alt="c"/>
   </a>
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> 
-    <img src="https://img.shields.io/badge/C++%20programming-A8B9CC.svg?style=for-the-badge&logo=c++&logoColor=white"
+    <img src="https://img.shields.io/badge/C++%20programming-1521b6.svg?style=for-the-badge&logo=c++&logoColor=white"
       alt="c++"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
