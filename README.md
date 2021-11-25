@@ -16,7 +16,7 @@
 
 - 🤲 2021 Goals: Contribute more to Open Source Projects
 
-- ⚡⚡⚡ "I can do it and I can achieve to my all dreams"  ⚡⚡⚡
+- ⚡⚡⚡ <b>"I can do it and I can achieve to my all dreams"</b>  ⚡⚡⚡
 
 <h2 align="center">Languages</h2>
 <p align="center">
