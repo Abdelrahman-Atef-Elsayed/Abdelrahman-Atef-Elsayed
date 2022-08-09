@@ -13,7 +13,7 @@
 
 - 💪🏻 I’m interested in learning to code more and more.
 
-- 🤲 2021 Goals: Contribute more to Open Source Projects
+- 🤲 Contribute more to Open Source Projects
 
 - ⚡⚡⚡ <b>"I can do it and I can achieve to my all dreams"</b>  ⚡⚡⚡
 
