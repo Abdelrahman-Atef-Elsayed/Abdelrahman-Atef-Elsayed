@@ -7,16 +7,6 @@
 
 - 👋 Hi, I’m Abd El-Rahman Atef
 
-- 🌱 I’m currently learning Computer Engineering in Shoubra 
-
-- 💞️ I’m looking to collaborate with other developers
-
-- 💪🏻 I’m interested in learning to code more and more.
-
-- 🤲 My Goals : Contribute more to Open Source Projects
-
-- ⚡⚡⚡ <b>"I can do it and I can achieve to my all dreams"</b>  ⚡⚡⚡
-
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
