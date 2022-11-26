@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Abd El-Rahman Atef <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2 font-size="20" align="center">Student at faculty of Engineering.</h2>
 
-- 👋 Hi, I’m Abd El-Rahman Atef
 
 <h2 align="center">Languages</h2>
 <p align="center">
