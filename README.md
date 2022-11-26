@@ -5,6 +5,10 @@
 <h1 align="center">Hi, I'm Abd El-Rahman Atef <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h2 font-size="20" align="center">Student at faculty of Engineering.</h2>
 
+**About me**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">Languages</h2>
 <p align="center">
