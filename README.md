@@ -52,6 +52,13 @@
 	</a>
 </div>
 
+<br>	
+	
+<div align="center">
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Atef-Elsayed" width="450"/></p>
+</div>
+
+
 <br>
 <br>
 	
