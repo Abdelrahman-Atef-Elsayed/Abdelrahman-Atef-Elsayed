@@ -43,7 +43,7 @@
 <br>
 <p align="left">
     <a href="https://github.com/Abdelrahman-Atef-Elsayed">
-    	<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,bootstrap,postman,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch,linux,vscode,eclipse,atom,idea,azure&theme=dark&perline=12" />
+    	<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,bootstrap,postman,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch,linux,vscode,eclipse,atom,idea,azure&theme=dark&perline=8" />
     </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
