@@ -40,7 +40,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  -->
     
 ## **Languages and Tools**
-<br>
+
 <p align="left">
     <a href="https://github.com/Abdelrahman-Atef-Elsayed">
     	<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,bootstrap,postman,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch,linux,vscode,eclipse,atom,idea,azure&theme=dark&perline=8" />
