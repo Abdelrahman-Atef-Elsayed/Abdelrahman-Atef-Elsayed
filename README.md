@@ -18,7 +18,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
- - **Languages**:
+<!--  - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,9 +37,15 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  -->
+    
+## **Languages and Tools**
+<br>
+<p align="left">
+    <a href="https://github.com/Abdelrahman-Atef-Elsayed">
+    	<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,bootstrap,postman,nodejs,express,mongodb,mysql,git,github,docker,tensorflow,pytorch,linux,vscode,eclipse,atom,idea,azure&theme=dark&perline=12" />
+    </a>
 
-	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 	
@@ -57,7 +63,6 @@
 <div align="center">
 	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Atef-Elsayed" width="450"/></p>
 </div>
-
 
 <br>
 <br>
