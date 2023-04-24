@@ -52,16 +52,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-	<a href="https://github.com/Abdelrahman-Atef-Elsayed">
-	  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-	</a>
-</div>
-
-<br>	
 	
 <div align="center">
-	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&locale=en&layout=compact" alt="Abdelrahman-Atef-Elsayed" width="450"/></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Abdelrahman-Atef-Elsayed" />
+    <br>
+    <br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Abdelrahman-Atef-Elsayed" />
 </div>
 
 <br>
