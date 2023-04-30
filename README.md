@@ -16,8 +16,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+ -->
 <!--  - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +39,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  -->
     
-## **Languages and Tools**
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Languages and Tools**
 
 <p align="left">
     <a href="https://github.com/Abdelrahman-Atef-Elsayed">
@@ -64,37 +64,13 @@
 <br>
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 	
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+## <b> Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 <div align='left'>
-
-<ul>
-
-<li>
-	<a href="https://www.linkedin.com/in/abd-el-rahman-atef-a711031a8/" target="_blank">
-	<img src="https://img.shields.io/badge/linkedin:  Abd_ElRahman_Atef-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-	</a>
-</li>
-
-<br>
-
-<li>
-	<a href="mailto:bodyatef253@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/gmail:  Abd_ElRahman_Atef-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-	</a>
-</li>
-
-<br>
-
-<li>
-	<a href="https://web.facebook.com/abdelrahman.fleifel.9" target="_blank">
-		<img src="https://img.shields.io/badge/facebook:  Abd_ElRahman_Atef-%2300acee.svg?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white" alt="abdelrahman.fleifel.9" style="margin-bottom: 5px;" />
-	</a>
-</li>
-	
-</ul>
+  <a href="https://www.linkedin.com/in/abd-el-rahman-atef-a711031a8/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Abd_ElRahman_Atef-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bodyatef253@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-Abd_ElRahman_Atef-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://web.facebook.com/abdelrahman.fleifel.9" target="_blank"><img src="https://img.shields.io/badge/facebook-Abd_ElRahman_Atef-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
