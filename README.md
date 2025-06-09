@@ -35,9 +35,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,3 +67,5 @@
     <img src="https://img.shields.io/badge/Facebook-Abdelrahman_Atef-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+
