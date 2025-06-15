@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  Hi there 👋 I'm Abdelrahman Atef Elsayed 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hi there 👋 I'm Abdelrahman Atef Elsayed  
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Atef-Elsayed" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Atef-Elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -25,29 +25,23 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://github.com/Abdelrahman-Atef-Elsayed">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,bootstrap,nodejs,express,mongodb,mysql,git,github,docker,postman,tensorflow,pytorch,linux,vscode,idea,azure&theme=dark&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,nodejs,mongodb,mysql,git,github,docker,postman,tensorflow,pytorch,linux,vscode&theme=dark&perline=10" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,16 +50,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-atef-elsayed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahman_Atef_Elsayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Atef_Elsayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:abdelurahmanatef@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Abdelrahman_Atef-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-abdelurahmanatef-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://web.facebook.com/abdelrahman.fleifel.9" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Abdelrahman_Atef-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
-
