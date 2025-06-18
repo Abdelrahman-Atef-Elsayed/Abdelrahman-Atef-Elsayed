@@ -46,18 +46,33 @@
 
 ---
 
+<!-- Optional CSS for hover effect -->
+<style>
+  .social-icons img {
+    transition: transform 0.2s ease-in-out;
+    border-radius: 12px;
+  }
+  .social-icons a:hover img {
+    transform: scale(1.2);
+  }
+</style>
+
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-atef-elsayed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Atef_Elsayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center" class="social-icons">
+  <a href="https://web.facebook.com/abdelrahman.fleifel.9" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" alt="Facebook" />
   </a>
   &nbsp;
   <a href="mailto:abdelurahmanatef@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-abdelurahmanatef-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://web.facebook.com/abdelrahman.fleifel.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Abdelrahman_Atef-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.linkedin.com/in/abdulrahman-atef-elsayed/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/abdulrahmanatef" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" alt="Kaggle" />
   </a>
 </p>
