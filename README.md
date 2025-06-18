@@ -46,16 +46,6 @@
 
 ---
 
-<!-- Optional CSS for hover effect -->
-<style>
-  .social-icons img {
-    transition: transform 0.2s ease-in-out;
-    border-radius: 12px;
-  }
-  .social-icons a:hover img {
-    transform: scale(1.2);
-  }
-</style>
 
 ## 🤝 Let's Connect
 
