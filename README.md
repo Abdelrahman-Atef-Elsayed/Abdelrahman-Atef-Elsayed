@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&hide_border=true&background=00000000&ring=00b4d8&fire=9d4edd&currStreakLabel=e0e1dd&currStreakNum=ffffff" alt="GitHub Streak" />
-</p>
-
 ---
 
 
