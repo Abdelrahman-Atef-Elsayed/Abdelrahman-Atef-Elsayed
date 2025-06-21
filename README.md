@@ -33,12 +33,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahman-Atef-Elsayed&show_icons=true&hide_border=true&layout=compact&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Atef-Elsayed&show_icons=true&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Atef-Elsayed&layout=compact&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="Top Languages" />
 </p>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman-Atef-Elsayed&theme=algolia&no-bg=true&no-frame=true&column=6" alt="Trophies" />
+</p>
+-->
+
+<!-- GitHub Snake Animation (اختياري، يتطلب GitHub Action) -->
+<!--
+<p align="center">
+  <img src="https://github.com/Abdelrahman-Atef-Elsayed/Abdelrahman-Atef-Elsayed/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+-->
 
 ---
 
