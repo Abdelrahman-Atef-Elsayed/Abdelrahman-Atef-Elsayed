@@ -25,8 +25,50 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,nodejs,mongodb,mysql,git,github,docker,postman,tensorflow,pytorch,linux,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,nodejs,mongodb,mysql,git,github,docker,postman,linux,vscode&theme=dark&perline=15" />
 </p>
+
+---
+
+## 📚 Data Science & ML Libraries
+
+<div align="center">
+  
+  <!-- Jupyter Notebook -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40"/>
+
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
+
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/>
+
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40"/>
+
+  <!-- PyTorch -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40"/>
+
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
+
+  <!-- SciPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="40"/>
+
+  <!-- HuggingFace -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="40"/>
+
+</div>
+
 
 ---
 
