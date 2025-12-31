@@ -71,7 +71,7 @@
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -81,7 +81,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Atef-Elsayed&layout=compact&hide_border=true&bg_color=00000000&title_color=00b4d8&text_color=e0e1dd&icon_color=9d4edd" alt="Top Languages" />
 </p>
-
+-->
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Atef-Elsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
