@@ -15,18 +15,18 @@
 ---
 
 ## 🚀 About Me
-🎓 Computer Engineering Graduate from **Benha University**  
-🚀 Passionate about **Data Engineering**, **Machine Learning**, and **Computer Vision**  
-🧠 Skilled in **Python**, **SQL**, and **Data Analysis**  
-🎯 ITI **Data Engineering Track** Applicant  
+🎓 Computer Engineering Graduate from Benha University 
+🤖 AI Engineer & Machine Learning Specialist with hands-on experience in deep learning, NLP, and computer vision
+🔬 Passionate about building intelligent systems that solve real-world problems
 
 ---
 ### 🎯 What I Do
 
-- ✈️ **Software Development**: Building AI-powered compliance and regulation search systems
-- 🤖 **Machine Learning**: Developing semantic search and NLP applications
-- 📊 **Data Engineering**: Processing and analyzing large-scale aviation datasets
-- 🔍 **AI Research**: Exploring computer vision and deep learning applications
+- 🤖 **AI Development**: Building RAG-powered chatbots and NLP applications
+- 🧠 **Machine Learning**: Developing predictive models for behavioral analysis
+- 👁️ **Computer Vision**: Creating video analysis and facial recognition systems
+- 📊 **Data Engineering**: Designing databases and automation pipelines
+- ✈️ **Aviation Tech**: Compliance automation and intelligent reporting systems
 
 ---
 
