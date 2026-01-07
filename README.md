@@ -95,6 +95,11 @@
 </p>
 
 ---
+### 📊 GitHub Contributions
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Atef-Elsayed&theme=github-compact)
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:3b82f6&height=120&section=footer" width="100%" />
 </p>
