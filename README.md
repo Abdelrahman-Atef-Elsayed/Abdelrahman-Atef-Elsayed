@@ -8,24 +8,25 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdelrahman-Atef-Elsayed&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus%20AI-7c3aed?style=flat-square" alt="Focus AI" />
-  <img src="https://img.shields.io/badge/Focus%20Machine%20Learning-059669?style=flat-square" alt="Focus ML" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-7c3aed?style=flat-square" alt="Focus AI" />
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-059669?style=flat-square" alt="Location" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Computer Engineering Graduate from Benha University 
-🤖 AI Engineer & Machine Learning Specialist with hands-on experience in deep learning, NLP, and computer vision
-🔬 Passionate about building intelligent systems that solve real-world problems
+
+🎓 **Computer Engineering Graduate** from Benha University   
+🤖 **AI Engineer & Machine Learning Specialist** with hands-on experience in deep learning, NLP, and computer vision  
+🔬 Passionate about building intelligent systems that solve real-world problems  
 
 ---
-### 🎯 What I Do
+## 🎯 What I Do
 
-- 🤖 **AI Development**: Building RAG-powered chatbots and NLP applications
-- 🧠 **Machine Learning**: Developing predictive models for behavioral analysis
-- 👁️ **Computer Vision**: Creating video analysis and facial recognition systems
-- 📊 **Data Engineering**: Designing databases and automation pipelines
+- 🤖 **AI Development**: Building RAG-powered chatbots and intelligent NLP applications
+- 🧠 **Machine Learning**: Developing predictive models and automated decision systems
+- 👁️ **Computer Vision**: Creating video analysis and image recognition solutions
+- 📊 **Data Engineering**: Designing databases, ETL pipelines, and automation tools
 - ✈️ **Aviation Tech**: Compliance automation and intelligent reporting systems
 
 ---
@@ -52,6 +53,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🚀 Frameworks & Deployment
