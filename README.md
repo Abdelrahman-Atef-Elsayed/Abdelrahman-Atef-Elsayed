@@ -110,6 +110,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:3b82f6&height=120&section=footer" width="100%" />
 </p>
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/Abdelrahman-Atef-Elsayed">Abdelrahman-Atef-Elsayed</a> with ❤️ for Technology</i>
-</p>
