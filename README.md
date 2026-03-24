@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Data+Engineering+Enthusiast+%F0%9F%93%8A;Software+Engineer+%E2%9C%88%EF%B8%8F;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+Smart+Systems+%F0%9F%A4%96;Machine+Learning+%26+NLP+Specialist+%F0%9F%93%8A;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Software+Engineer+with+Impact+%E2%9C%88%EF%B8%8F;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
