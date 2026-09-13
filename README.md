@@ -44,7 +44,15 @@ RAG · Semantic Search · NLP Pipelines · LLMs
 </table>
 
 ---
+## 🌐 Portfolio
 
+<p align="center">
+  <a href="https://ai-engineer-portfolio-nine-lime.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
 ## ⚡ Current Focus
 
 <table>
